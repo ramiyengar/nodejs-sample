@@ -1,0 +1,48 @@
+{
+ "artifacts": [
+  {
+   "id": "93082c09d9d1c59a",
+   "name": "Node Engine",
+   "version": "18.15.0",
+   "type": "",
+   "foundBy": "",
+   "locations": [],
+   "licenses": [
+    "0BSD",
+    "Apache-2.0",
+    "Artistic-2.0",
+    "BSD-2-Clause",
+    "BSD-3-Clause",
+    "BSD-4-Clause",
+    "BSD-Source-Code",
+    "CC0-1.0",
+    "ECL-2.0",
+    "ICU",
+    "MIT",
+    "MIT-0",
+    "SHL-0.5",
+    "SHL-0.51",
+    "Unicode-TOU"
+   ],
+   "language": "",
+   "cpes": [
+    "cpe:2.3:a:nodejs:node.js:18.15.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:generic/node@v18.15.0?checksum=c8c5fa53ce0c0f248e45983e86368e0b1daf84b77e88b310f769c3cfc12682ef&download_url=https://nodejs.org/dist/v18.15.0/node-v18.15.0-linux-x64.tar.xz"
+  }
+ ],
+ "artifactRelationships": [],
+ "source": {
+  "type": "directory",
+  "target": "/layers/paketo-buildpacks_node-engine/node"
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "",
+  "version": ""
+ },
+ "schema": {
+  "version": "3.0.1",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-3.0.1.json"
+ }
+}
