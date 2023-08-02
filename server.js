@@ -10,7 +10,7 @@ app.get('/', (request, response) => {
     <title>Powered By Paketo Buildpacks</title>
   </head>
   <body>
-    <h1>Hello KubeCon demo</h1>
+    <h1>Hello OpenSSF Day demo</h1>
     <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="https://paketo.io/images/paketo-logo-full-color.png"></img>
   </body>
 </html>`);
